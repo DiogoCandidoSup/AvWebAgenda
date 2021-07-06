@@ -41,7 +41,7 @@ session_start();
 ?>
 
 <div class="left-align" style="text-indent: 30px">
-      <h6 class="light"> Boa noite </h6>
+      <h6 class="light"> Boa tarde </h6>
 </div>
 
 <br>
